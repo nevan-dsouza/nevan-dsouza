@@ -26,25 +26,5 @@
 <br />
 <br />
 
-### Stats and others:
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nevan-dsouza&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nevan-dsouza&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nevan-dsouza&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![Top Langs](https://github-readme-stats.dipanjanpanja6.vercel.app/api/top-langs/?username=dipanjanpanja6&layout=compact&theme=dark&show_icons=true&hide_border=true)
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nevan-dsouza&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dipanjanpanja6)
-
-
-[htb]: https://hackthebox.eu
-[website]: https://dipanjanpanja.in/
-[twitter]: https://twitter.com/dipanjanpanja6
-[youtube]: https://youtube.com/dipanjanpanja6
-[instagram]: https://instagram.com/dipanjanpanja6
-[linkedin]: https://linkedin.com/in/dipanjanpanja6
-[discord]: https://discord.gg/HqFzbj8
-[stackoverflow]: https://stackoverflow.com/users/11622707/dipanjan-panja?tab=profile
 
