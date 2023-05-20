@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsnevandsouza" target="blank"><img src="https://img.shields.io/twitter/follow/itsnevandsouza?logo=twitter&style=for-the-badge" alt="itsnevandsouza" /></a> </p>
 
-<img align='right' src='./assets/demonslayer.gif' width='375'>
+<img align='right' src='./assets/demonslayer.gif' width='275'>
 
 <div>
   <h3>Bio:</h3>
