@@ -1,10 +1,10 @@
 <img src="./assets/header_.png">
 
-### Hi there, I'm Nevan D'Souza  👋
+# Hi there, I'm Nevan D'Souza  👋
 
-## Aspiring Software Developer!
+### Aspiring Software Developer!
 
-<img align='right' src='./assets/demonslayer.gif' width='200"'>
+<img align='right' src='./assets/demonslayer.gif' width='150"'>
 
 * 🔭 I’m currently working on getting my AWS cloud certifications
 * 👯 I’m looking to collaborate on hackathon projects
@@ -26,5 +26,5 @@
 <br />
 <br />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dipanjanpanja6)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nevan-dsouza)
 
