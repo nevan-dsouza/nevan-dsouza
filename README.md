@@ -12,11 +12,11 @@
   <h3>Bio:</h3>
   <p>Aspiring software developer passionate about DevOps, cloud, AI and ML.<p>
 
-- 🔭 I’m currently working on **getting my AWS cloud certifications**
+- 🔭 I’m currently working on **Go projects**.
 
-- 🌱 I’m currently learning **DevOps and Cloud Engineering**
+- 🌱 I’m currently learning **backend development**.
 
-- 👯 I’m looking to collaborate on **hackathon projects**
+- 👯 I’m looking to collaborate on **interesting community projects**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/nevan-dsouza](https://github.com/nevan-dsouza)
 
